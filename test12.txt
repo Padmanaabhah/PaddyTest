@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is FA6E-C6F6
+
+ Directory of C:\Paddy\Git
+
+03/02/2019  05:57 AM    <DIR>          .
+03/02/2019  05:57 AM    <DIR>          ..
+03/02/2019  05:57 AM                 0 test12.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  116,633,481,216 bytes free
